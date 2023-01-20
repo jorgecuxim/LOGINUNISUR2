@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.Form1.resources
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.Properties.Resources.resources
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\bin\Debug\LOGINUNISUR.exe.config
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\bin\Debug\LOGINUNISUR.exe
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\bin\Debug\LOGINUNISUR.pdb
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.exe
+C:\Users\jorge\source\repos\LOGINUNISUR\LOGINUNISUR\obj\Debug\LOGINUNISUR.pdb
